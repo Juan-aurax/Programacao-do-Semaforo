@@ -1,2 +1,2 @@
 # Programacao-do-Semaforo
-Desenvolvimento de um sistema de semáforo usando a programação em Python para ajustar o trânsito paulistano.
+Desenvolvimento de um sistema de semáforo usando a programação C++ no Tinkercad para ajustar o trânsito paulistano.
